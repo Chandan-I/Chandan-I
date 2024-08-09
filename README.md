@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chandan Raj</h1>
-<h3 align="center">A passionate Ethical Hacker, Network Analyst, Web Developer from India</h3>
+<h3 align="center">Driven by a solid foundation in networking and web development, with a deep passion for tackling cybersecurity challenges and exploring ethical hacking from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-i&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-i" /> </p>
 
