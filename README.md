@@ -7,13 +7,12 @@
     <img src="https://komarev.com/ghpvc/?username=chandan-i&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-i" />
 </p>
 
-<!-- Two rows for GitHub stats -->
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&locale=en" alt="chandan-i" style="border: 2px solid #3498db; border-radius: 10px; padding: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-i&show_icons=true&locale=en&layout=compact" alt="chandan-i" style="border: 2px solid #3498db; border-radius: 10px; padding: 10px;" />
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=chandan-i" alt="chandan-i" />
+    </a>
 </p>
 
-<!-- Connect with me section with border -->
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #2980b9;">Connect with me:</h3>
 <p align="center" style="border: 2px solid #2980b9; border-radius: 10px; padding: 10px; display: inline-block;">
     <a href="https://www.linkedin.com/in/chandan-raj-a50348248/" target="blank">
@@ -24,9 +23,8 @@
     </a>
 </p>
 
-<!-- Languages section in 3 rows -->
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #e74c3c;">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
     </a>
@@ -65,20 +63,15 @@
     </a>
 </p>
 
-<!-- Most used languages part in circle and bar graph -->
-<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #f39c12;">Most Used Languages:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-i&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-i&show_icons=true&locale=en&layout=compact" alt="chandan-i" />
 </p>
 
-<!-- GitHub Stars block with improved color -->
-<p align="center" style="font-family: 'Verdana', sans-serif; color: #e74c3c;">
-    <a href="https://github.com/chandan-i" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/stars/chandan-i?style=social" alt="Chandan Raj's GitHub Stars" />
-    </a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&locale=en" alt="chandan-i" />
 </p>
 
-<!-- Modified design for the last block -->
-<p align="center" style="font-family: 'Verdana', sans-serif; color: #3498db;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-i&theme=dark&background=000000" alt="GitHub Streak" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-i&" alt="chandan-i" />
 </p>
+
