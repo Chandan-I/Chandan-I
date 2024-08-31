@@ -29,7 +29,11 @@
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="130" height="100" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="background-color: white;">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" 
+   style="color: #FFFFFF; background-color: #00ADEF; padding: 10px 20px; border: 2px solid #FFFFFF; border-radius: 5px; text-decoration: none; font-weight: bold;">
+   Visit Bootstrap
+</a>
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="130" height="100" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
