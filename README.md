@@ -26,14 +26,10 @@
 <br><br>
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #e74c3c; font-size:1.8em;">Languages and Tools:</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="130" height="100" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" 
-   style="color: #FFFFFF; background-color: #00ADEF; padding: 10px 20px; border: 2px solid #FFFFFF; border-radius: 5px; text-decoration: none; font-weight: bold;">
-   Visit Bootstrap
-</a>
-
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="130" height="100" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
