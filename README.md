@@ -1,6 +1,5 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #2e86de; font-size: 3em;">Hello 👋, I'm <span style="color: red;">Chandan Raj</span></h1>
-<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #16a085; font-size: 1.8em;">
-    Driven by a solid foundation in networking and web development, with a deep passion for tackling cybersecurity challenges and exploring ethical hacking from India
+<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #16a085; font-size: 1.8em;">🎓 Final Year BTech CSE | 💻 Cybersecurity Enthusiast | 👨‍💻 Open Source Contributor   🔐 Focused on building secure, scalable, and smart applications | 🚀 Passionate problem solver, with a deep passion for tackling cybersecurity challenges and exploring ethical hacking from India
 </h3>
 <br>
 
