@@ -95,9 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chandan-i&theme=tokyonight" alt="GitHub Streak" height="160" />
 
-    <!-- GitHub Contribution Graph -->
-  <img src="https://ghchart.rshah.org/chandan-i" alt="GitHub Contribution Graph" height="160" />
-
 </div>
 
 ---
