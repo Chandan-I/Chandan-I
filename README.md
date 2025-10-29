@@ -19,7 +19,7 @@
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandan-i&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandan-i&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -87,19 +87,17 @@
   </tr>
 </table>
 
-
+---
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-i&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandan-i&theme=tokyonight" alt="GitHub Streak" height="160" />
-
+  <!-- 🟢 AUTO-UPDATING & CACHED CORRECTLY -->
+  <img src="https://github-readme-stats-k4k1x.vercel.app/api/top-langs/?username=chandan-i&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=7200" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats-k4k1x.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight&cache_seconds=7200" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-k4k1x.vercel.app?user=chandan-i&theme=tokyonight&hide_border=false" height="160" alt="GitHub Streak"/>
 </div>
 
 ---
-
-
 
 ## 🧠 **Technical Skill Level**
 <p align="center">
@@ -115,7 +113,7 @@
 
 ## 🧩 **LeetCode Performance**
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=chandan_raj0956&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/chandan_raj0956?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
