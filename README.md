@@ -91,11 +91,18 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <!-- 🟢 AUTO-UPDATING & CACHED CORRECTLY -->
-  <img src="https://github-readme-stats-k4k1x.vercel.app/api/top-langs/?username=chandan-i&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=7200" height="160" alt="Top Languages"/>
-  <img src="https://github-readme-stats-k4k1x.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight&cache_seconds=7200" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-k4k1x.vercel.app?user=chandan-i&theme=tokyonight&hide_border=false" height="160" alt="GitHub Streak"/>
+
+  <!-- 🟢 DYNAMIC TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages"/>
+
+  <!-- 🟢 DYNAMIC PROFILE STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats"/>
+
+  <!-- 🟢 DYNAMIC STREAK STATS -->
+  <img src="https://streak-stats.demolab.com?user=chandan-i&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+
 </div>
+
 
 ---
 
