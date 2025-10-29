@@ -98,8 +98,7 @@
   <!-- 🟢 DYNAMIC PROFILE STATS -->
   <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats"/>
 
-  <!-- 🟢 DYNAMIC STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=chandan-i&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+
 
 </div>
 
