@@ -17,11 +17,6 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chandan-i&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" /> </p>
-
----
-
 ## 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/chandan-raj-a50348248/" target="_blank">
