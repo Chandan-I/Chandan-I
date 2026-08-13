@@ -5,9 +5,10 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #16a085;">
-  🎓 Final Year B.Tech CSE | 💻 Cybersecurity Enthusiast | 🚀 Problem Solver from India  
-  💼 Open to Software Roles | ☕ Java Expert | 🔒 Ethical Hacking Explorer
+  🥇 B.Tech Gold Medalist | 💼 AASE Developer @ Accenture | ☁️ SAP BTP & AI Developer  
+  🤖 Generative AI Enthusiast | 🐍 Python | ☕ Java | 🚀 FastAPI | 🔗 MCP | 🗄️ SAP HANA Cloud
 </h3>
+
 
 <br>
 
