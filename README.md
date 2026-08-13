@@ -18,9 +18,7 @@
 ---
 
 ## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandan-i&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chandan-i&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" /> </p>
 
 ---
 
@@ -92,16 +90,11 @@
 ## 📊 **GitHub Stats**
 <div align="center">
 
-  <!-- 🟢 DYNAMIC TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chandan-i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
 
-  <!-- 🟢 DYNAMIC PROFILE STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats"/>
-
-
+<img src="https://github-stats-extended.vercel.app/api?username=chandan-i&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
 
 </div>
-
 
 ---
 
